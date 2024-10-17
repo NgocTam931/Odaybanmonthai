@@ -1,0 +1,109 @@
+<html><head>
+	<title>Menu Buffet - KingBBQ</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta name="description" content="Menu Buffet - KingBBQ">
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine1/style.css?version=1500">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="engine1/jquery.js?version=1500"></script>
+	<!-- End WOWSlider.com HEAD section -->
+	<script type="text/javascript">
+
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-54261556-5']);
+		_gaq.push(['_gat._forceSSL']);
+		_gaq.push(['_gat._anonymizeIp']);
+		_gaq.push(['_trackPageview']);
+
+		(function () {
+			var ga = document.createElement('script');
+			ga.type = 'text/javascript';
+			ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+
+<body style="background-color:#d7d7d7;margin:auto">
+
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container1" class="ws_gestures" style="font-size: 7.05px;">
+
+		<div class="ws_images" id="main" style="overflow: visible; height: 797px; width: 564.031px;"><div style="position: relative; width: 100%; font-size: 0px; line-height: 0; max-height: 100%; overflow: hidden;"><img src="data1/images/1.png" alt="1" title="1" id="wows1_0" style="width: 100%; visibility: hidden;"></div>
+			
+		<div style="position: absolute; inset: 0px; overflow: hidden;"><div class="ws_list" style="position: absolute; top: 0px; height: 100%; transform: translate3d(0px, 0px, 0px); width: 10000%; left: -900%;"><div class="ws_swipe_left" style="position: absolute; top: 0px; height: 100%; overflow: hidden; width: 1%; left: -1%;"><img src="data1/images/26.png" alt="26" title="26" id="wows1_25" style="visibility: visible;"></div><ul style="width: 100%;">
+				<li style="width: 1%;"><img src="data1/images/1.png" alt="1" title="1" id="wows1_0" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/2.png" alt="2" title="2" id="wows1_1" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/3.png" alt="3" title="3" id="wows1_2" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/4.png" alt="4" title="4" id="wows1_3" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/5.png" alt="5" title="5" id="wows1_4" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/6.png" alt="6" title="6" id="wows1_5" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/7.png" alt="7" title="7" id="wows1_6" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/8.png" alt="8" title="8" id="wows1_7" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/9.png" alt="9" title="9" id="wows1_8" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/10.png" alt="10" title="10" id="wows1_9" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/11.png" alt="11" title="11" id="wows1_10" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/12.png" alt="12" title="12" id="wows1_11" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/13.png" alt="13" title="13" id="wows1_12" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/14.png" alt="14" title="14" id="wows1_13" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/15.png" alt="15" title="15" id="wows1_14" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/16.png" alt="16" title="16" id="wows1_15" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/17.png" alt="17" title="17" id="wows1_16" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/18.png" alt="18" title="18" id="wows1_17" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/19.png" alt="19" title="19" id="wows1_18" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/20.png" alt="20" title="20" id="wows1_19" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/21.png" alt="21" title="21" id="wows1_20" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/22.png" alt="22" title="22" id="wows1_21" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/23.png" alt="23" title="23" id="wows1_22" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/24.png" alt="24" title="24" id="wows1_23" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/25.png" alt="25" title="25" id="wows1_24" style="visibility: visible;"></li>
+				<li style="width: 1%;"><img src="data1/images/26.png" alt="26" title="26" id="wows1_25" style="visibility: visible;"></li>
+				<!-- <li><img src='data1/images/27.png' alt='27' title='27' id='wows1_26' /></li>
+				<li><img src='data1/images/28.png' alt='28' title='28' id='wows1_27' /></li>
+				<li><img src='data1/images/29.png' alt='29' title='29' id='wows1_28' /></li>
+				<li><img src='data1/images/30.png' alt='30' title='30' id='wows1_29' /></li>
+				<li><img src='data1/images/31.png' alt='31' title='31' id='wows1_30' /></li>
+				<li><img src='data1/images/32.png' alt='32' title='32' id='wows1_31' /></li>
+				<li><img src='data1/images/33.png' alt='33' title='33' id='wows1_32' /></li>
+				<li><img src='data1/images/34.png' alt='34' title='34' id='wows1_33' /></li>
+				<li><img src='data1/images/35.png' alt='35' title='35' id='wows1_34' /></li>
+				<li><img src='data1/images/36.png' alt='36' title='36' id='wows1_35' /></li> -->
+			</ul><div class="ws_swipe_right" style="position: absolute; top: 0px; height: 100%; overflow: hidden; width: 1%; left: 26%;"><img src="data1/images/1.png" alt="1" title="1" id="wows1_0" style="visibility: visible;"></div></div></div><div class="ws_cover" style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; z-index: 10; background: rgb(255, 255, 255); opacity: 0;"><a href="#" style="display:none;position:absolute;left:0;top:0;width:100%;height:100%"></a></div><div class="ws_effect ws_book" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; opacity: 1;"></div><div style="position: absolute; padding: 0px; z-index: 56; right: 15px; bottom: 15px;"><a href="http://wowslider.com" style="position: relative; display: block; font-size: 15px; width: auto; height: auto; font-family: Arial; font-weight: normal; font-style: normal; padding: 1px 5px; margin: 0px; border-radius: 10px; outline: none;" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></div><div class="ws_controls"><div class="ws_bullets" style="display: none;">
+			<div>
+
+			</div>
+		</div><a href="#" class="ws_next"><span><i></i><b></b></span></a><a href="#" class="ws_prev"><span><i></i><b></b></span></a><a href="#" class="ws_playpause ws_pause"><span><i></i><b></b></span></a></div><div class="ws-title-wrapper" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; overflow: hidden;"><div class="ws-title" style="display: inline-block; width: 100%; transform: translate3d(0px, 0px, 0px);"><span style="transform: translate3d(-52.227px, 0px, 0px); display: inline-block;">10</span></div><div class="ws-title" style="display: inline-block; width: 100%; transform: translate3d(1052.25px, 0px, 0px);"><span style="transform: translate3d(222.273px, 0px, 0px); display: inline-block; opacity: 0;">9</span></div></div></div>
+		
+		<div class="ws_shadow"></div>
+	</div>
+	<script type="text/javascript" src="engine1/wowslider.js?version=1500"></script>
+	<script type="text/javascript" src="engine1/script.js?version=1500"></script>
+	<!-- End WOWSlider.com BODY section -->
+	<script type="text/javascript">
+		var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+		if (!isMobile) {
+			var height = window.innerHeight;
+			var number = 1288 / 1820;
+			var width = height * number;
+			$('#main').height(height);
+			$('#main').width(width);
+		} else {
+			var width = window.innerWidth;
+			var windowHeight = window.innerHeight;
+			$('#wowslider-container1 .ws_images').css("max-height", "100%");
+			$('#wowslider-container1 .ws_images').css("max-width", width + "px");
+
+			var number = 1288 / 1820;
+			var realHeight = width / number;
+
+			var diff = windowHeight - realHeight;
+			var margin = diff / 2;
+			$('#wowslider-container1').css("margin-top", margin + "px");
+		}
+	</script>
+
+
+</body></html>
